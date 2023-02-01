@@ -30,7 +30,7 @@
 ## Installation 👇
 
 ### Easy Way 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Skevergreen/Auto-Movie-Filter-Bot)
 ### Hard Way
 
 
